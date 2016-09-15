@@ -170,3 +170,16 @@ export declare const currenciesByCode: {
     [code: string]: CurrencyCode;
 };
 export declare const currencies: CurrencyCode[];
+/**
+ * Specifies an amount of a currency
+ */
+export interface CurrencyAmount {
+    /**
+     * The ammount in cents
+     */
+    ammount: number;
+    /**
+     * The currency code for the transaction amount
+     */
+    currencyCode: string;
+}

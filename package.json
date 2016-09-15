@@ -1,6 +1,6 @@
 {
   "name": "@bryanerayner/currency-model",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Models for currencies",
   "main": "lib/index.js",
   "scripts": {
