@@ -1,0 +1,20 @@
+{
+  "name": "@bryanerayner/currency-model",
+  "version": "0.0.2",
+  "description": "Models for currencies",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "typings": "lib/index",
+  "repository": {
+    "type": "git",
+    "url": "git+https://bryanerayner@github.com/bryanerayner/currency-model.git"
+  },
+  "author": "Bryan Rayner",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/bryanerayner/currency-model/issues"
+  },
+  "homepage": "https://github.com/bryanerayner/currency-model#readme"
+}
