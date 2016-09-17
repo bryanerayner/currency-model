@@ -175,9 +175,9 @@ export declare const currencies: CurrencyCode[];
  */
 export interface CurrencyAmount {
     /**
-     * The ammount in cents
+     * The amount in cents
      */
-    ammount: number;
+    amount: number;
     /**
      * The currency code for the transaction amount
      */
